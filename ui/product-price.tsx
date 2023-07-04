@@ -1,4 +1,4 @@
-import { Product } from '#/app/api/products/product';
+import { Product } from '#/src/app/api/products/product';
 import { ProductCurrencySymbol } from '#/ui/product-currency-symbol';
 import { ProductDeal } from '#/ui/product-deal';
 import { ProductLighteningDeal } from '#/ui/product-lightening-deal';
